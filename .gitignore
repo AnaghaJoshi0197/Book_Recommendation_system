@@ -5,9 +5,6 @@ venv/
 __pycache__/
 *.py[cod]
 
-# Ignore the local database (optional, but recommended if it contains private user data)
-booktok
-
 # Ignore system files
 .DS_Store
 Thumbs.db
