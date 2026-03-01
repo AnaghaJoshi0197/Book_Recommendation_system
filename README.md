@@ -22,3 +22,6 @@ A full-stack Python application that provides book recommendations using **Conte
 
 4. **Run the App:**
    streamlit run app.py
+
+## Build by
+   Anagha Joshi
